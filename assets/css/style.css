@@ -48,9 +48,6 @@ a:hover {
   color: var(--c-brand);
 }
 
-img {
-  width: 100%;
-}
 
 .section-padding {
   padding-top: 120px;
@@ -207,7 +204,6 @@ img {
 }
 
 .images img {
-  height: 400px;
   width: 100%;
   transition: all 0.15s ease;
 }
@@ -274,7 +270,7 @@ img {
   border: none;
   border-radius: 0.3rem;
   box-shadow: var(--shadow);
-  height: 200px;
+  width: 100%;
 }
 
 #home {
